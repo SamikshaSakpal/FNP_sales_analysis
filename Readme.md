@@ -14,7 +14,7 @@ The project transforms raw sales data into meaningful visual insights through in
 
 # 🖼 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ---
 
@@ -113,17 +113,6 @@ This dashboard helps identify:
 * Monthly revenue trends
 
 ---
-
-# 🚀 Future Improvements
-
-* Power BI version of dashboard
-* SQL integration
-* Automated refresh using Power Query
-* Forecasting & predictive analytics
-* Customer segmentation analysis
-
----
-
 # 👩‍💻 Author
 
 Samiksha Sakpal
